@@ -1,2 +1,2 @@
-# geometries_of_vectors
+Geometries of Vectors
 In this repository you can find scripts for manipulating vector spatial data geometries.
